@@ -25,6 +25,3 @@ dist-ssr
 
 # Yarn lock file
 yarn.lock
-
-# Environment variables
-.env
